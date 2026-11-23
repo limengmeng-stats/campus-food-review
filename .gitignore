@@ -1,0 +1,16 @@
+# 私人求职材料，不上传
+简历文案.md
+
+# 未采用的 Python 分析脚本（半成品），不上传
+analysis/
+
+# WorkBuddy 项目内部文件，不上传
+.workbuddy/
+*.genie
+
+# 系统 / 编辑器临时文件
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
